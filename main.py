@@ -8,7 +8,7 @@ import subprocess
 
 toaddr = 'abc@gmail.com'
 me = 'xyz@gmail.com'
-password = 'wqen yqil ouih alvt'  # Use the app password here
+password = 'abcd efgh ijkl mnop'  # Use the app password here
 subject = 'Security alert'
 image_path = '/home/pi/my_image1.jpg'
 
